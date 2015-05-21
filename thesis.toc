@@ -32,9 +32,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.1.3.2}ionic}{7}{subsubsection.2.1.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.4}数据库调研}{7}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.4}数据库调研}{8}{subsection.2.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.4.1}来源}{7}{subsubsection.2.1.4.1}
+\contentsline {subsubsection}{\numberline {2.1.4.1}来源}{8}{subsubsection.2.1.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.1.4.2}mongodb}{8}{subsubsection.2.1.4.2}
 \defcounter {refsection}{0}\relax 
@@ -100,10 +100,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.1}基于用户特点喜好的更进一步的匹配算法}{13}{subsection.5.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{结论}{15}{chapter*.8}
+\contentsline {chapter}{结论}{15}{chapter*.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{参考文献}{17}{appendix*.10}
+\contentsline {chapter}{参考文献}{17}{appendix*.11}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {附录\nobreakspace {}A\hspace {0.3em}}附件}{19}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{致谢}{21}{appendix*.11}
+\contentsline {chapter}{致谢}{21}{appendix*.12}

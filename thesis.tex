@@ -36,6 +36,11 @@
 \usepackage{newtxmath}
 % 产生 originauth.tex 里的 \square。
 \usepackage{amssymb}
+\usepackage{float}
+\usepackage{subfig}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\DeclareMathOperator*{\argmax}{argmax}
 
 % 按学校要求设定参考文献列表中的条目之内及之间的距离。
 \setlength{\bibitemsep}{3bp}
@@ -96,7 +101,7 @@
 	\include{chap/copyright}
 
 	% 此后到下一 \pagestyle 命令之前正常排版页眉和页脚。
-	\cleardoublepage
+	% \cleardoublepage
 	\pagestyle{plain}
 	% 重置页码计数器，用大写罗马数字排版此部分页码。
 	\setcounter{page}{0}
@@ -143,7 +148,7 @@
 	\include{chap/acknowledge}
 
 	% 此后不排版页眉或页脚。
-	\cleardoublepage
+	% \cleardoublepage
 	\pagestyle{empty}
 
 	% 原创性声明和使用授权说明。

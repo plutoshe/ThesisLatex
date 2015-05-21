@@ -1,17 +1,17 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
 [0] Config.pm:321> INFO - Logfile is 'thesis.blg'
-[76] biber-darwin:275> INFO - === Mon May 18, 2015, 12:56:51
-[76] Biber.pm:333> INFO - Reading 'thesis.bcf'
-[132] Biber.pm:630> INFO - Found 2 citekeys in bib section 0
-[162] Biber.pm:3053> INFO - Processing section 0
-[186] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
-[188] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
-[188] bibtex.pm:812> INFO - Found BibTeX data source 'thesis.bib'
-[235] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[235] Biber.pm:2945> INFO - Sorting 'entry' list 'ecnty' keys
-[235] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[246] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[246] Biber.pm:2945> INFO - Sorting 'entry' list 'none' keys
-[246] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[250] bbl.pm:482> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[251] bbl.pm:555> INFO - Output to thesis.bbl
+[54] biber-darwin:275> INFO - === Thu May 21, 2015, 16:30:53
+[54] Biber.pm:333> INFO - Reading 'thesis.bcf'
+[108] Biber.pm:630> INFO - Found 2 citekeys in bib section 0
+[125] Biber.pm:3053> INFO - Processing section 0
+[141] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[143] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[143] bibtex.pm:812> INFO - Found BibTeX data source 'thesis.bib'
+[176] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[177] Biber.pm:2945> INFO - Sorting 'entry' list 'ecnty' keys
+[177] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[184] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[184] Biber.pm:2945> INFO - Sorting 'entry' list 'none' keys
+[184] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[188] bbl.pm:482> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[188] bbl.pm:555> INFO - Output to thesis.bbl

@@ -1,4 +1,4 @@
-PWD /Users/plutoshe/Downloads/毕业设计/doc/latex/pkuthss/example-utf8
+PWD /Users/plutoshe/Desktop/Thesis
 INPUT /usr/local/texlive/2013/texmf.cnf
 INPUT /usr/local/texlive/2013/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2013/texmf-var/web2c/xetex/xelatex.fmt
@@ -271,6 +271,10 @@ INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/subfig/subfig.sty
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/subfig/subfig.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
@@ -437,6 +441,8 @@ INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/txfonts/t1xr.tfm
 OUTPUT chap/chap1.aux
 INPUT chap/chap1.tex
 INPUT chap/chap1.tex
+INPUT img/chap1/flickr.png
+INPUT img/chap1/flickr.png
 OUTPUT chap/chap2.aux
 INPUT chap/chap2.tex
 INPUT chap/chap2.tex

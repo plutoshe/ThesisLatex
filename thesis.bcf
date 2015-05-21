@@ -1953,10 +1953,6 @@
     <bcf:citekey order="8">test-zh</bcf:citekey>
     <bcf:citekey order="9">test-en</bcf:citekey>
     <bcf:citekey order="9">test-zh</bcf:citekey>
-    <bcf:citekey order="10">test-en</bcf:citekey>
-    <bcf:citekey order="11">test-zh</bcf:citekey>
-    <bcf:citekey order="12">test-en</bcf:citekey>
-    <bcf:citekey order="12">test-zh</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="ecnty">
   <bcf:sorting>
