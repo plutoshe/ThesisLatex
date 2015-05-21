@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2014.6.2)  21 MAY 2015 16:30
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2014.6.2)  21 MAY 2015 23:14
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1993,14 +1993,9 @@ File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 \@quotelevel=\count372
 \@quotereset=\count373
 
-(./thesis.aux (./chap/copyright.aux) (./chap/abstract.aux)
-(./chap/introduction.aux) (./chap/chap1.aux
-
-LaTeX Warning: Label `your label' multiply defined.
-
-) (./chap/chap2.aux) (./chap/chap3.aux) (./chap/chap4.aux) (./chap/chap5.aux)
-(./chap/conclusion.aux) (./chap/encl1.aux) (./chap/acknowledge.aux)
-(./chap/originauth.aux))
+(./thesis.aux (./chap/copyright.aux) (./chap/abstract.aux) (./chap/chap1.aux)
+(./chap/chap2.aux) (./chap/chap3.aux) (./chap/chap4.aux) (./chap/chap5.aux)
+(./chap/acknowledge.aux) (./chap/originauth.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 92.
@@ -2170,10 +2165,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
-(./thesis.bbl
-LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 10.54pt on input line 86.
-)
+(./thesis.bbl)
 Package biblatex Info: Reference section=0 on input line 92.
 Package biblatex Info: Reference segment=0 on input line 92.
 \c@mv@tabular=\count374
@@ -2301,6 +2293,8 @@ LaTeX Font Info:    Font shape `T1/ntxrx/bx/n' will be
 (Font)              scaled to size 18.07pt on input line 5.
 LaTeX Font Info:    Font shape `T1/ntxrx/bx/n' will be
 (Font)              scaled to size 12.05pt on input line 13.
+LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
+(Font)              scaled to size 10.54pt on input line 15.
  [1
 
 
@@ -2326,68 +2320,28 @@ LaTeX Font Info:    Font shape `T1/ntxrx/bx/n' will be
 \openout5 = `thesis.toc'.
 
  [6]
-\openout2 = `chap/introduction.aux'.
-
- (./chap/introduction.tex
-LaTeX Font Info:    Font shape `T1/ntxrx/m/it' will be
-(Font)              scaled to size 12.05pt on input line 7.
-
-*************************************************
-* fontspec warning: "script-not-exist"
-* 
-* Font 'STFangsong' does not contain script 'CJK'.
-*************************************************
-\g_fontspec_family_STFangsong_int=\count385
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font STFangsong/I (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font STFangsong/I (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'STFangsong(0)' created for font 'STFangsong' with options
-. [Ligatures=TeX,Script={CJK},AutoFakeBold={4}].
-. 
-. This font family consists of the following shapes:
-. 
-. * 'normal' with NFSS spec.:
-. <->"STFangsong/ICU:mapping=tex-text;"
-. 
-. * 'bold' with NFSS spec.:
-. <->"STFangsong/ICU:mapping=tex-text;embolden=4;"
-.................................................
-LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 7.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/newtx/t1ntxtt.fd
-File: t1ntxtt.fd 2012/04/20 v3.1
-)
-LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 12.05pt on input line 7.
-LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 8.0pt on input line 7.
-) [1
-
-
-
-]
 \openout2 = `chap/chap1.aux'.
 
-
-(./chap/chap1.tex [2
-
-
-
-]
+ (./chap/chap1.tex
 第一章
 File: img/chap1/flickr.png Graphic file (type QTm)
 <use  "img/chap1/flickr.png" >
-File: img/chap1/flickr.png Graphic file (type QTm)
- <use  "img/chap1/flickr.png" > [3]
+LaTeX Font Info:    Font shape `T1/ntxrx/m/it' will be
+(Font)              scaled to size 12.05pt on input line 37.
+File: img/chap1/instagram.png Graphic file (type QTm)
+ <use  "img/chap1/instagram.png" >
+File: img/chap1/snapchat.png Graphic file (type QTm)
+
+<use  "img/chap1/snapchat.png" > [1
+
+
+
+]
+File: img/chap1/twitter_recommend.png Graphic file (type QTm)
+ <use  "img/chap1/twitter_recommend.png" >
+File: img/chap1/weibo_recommend.png Graphic file (type QTm)
+
+<use  "img/chap1/weibo_recommend.png" >
 Missing character: There is no 􏰉 in font t1xr!
 Missing character: There is no 􏴳 in font t1xr!
 Missing character: There is no 􏰭 in font t1xr!
@@ -2421,85 +2375,75 @@ Missing character: There is no 􏴿 in font t1xr!
 Missing character: There is no 􏵀 in font t1xr!
 Missing character: There is no 􏱾 in font t1xr!
 Missing character: There is no 􏱜 in font t1xr!
-) [4]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2])
+[3]
 \openout2 = `chap/chap2.aux'.
 
+ (./chap/chap2.tex [4
 
-(./chap/chap2.tex
+
+
+]
 第二章
 LaTeX Font Info:    Font shape `T1/ntxrx/bx/n' will be
 (Font)              scaled to size 15.06pt on input line 7.
-[5
+[5]
+File: img/chap2/Face++API.png Graphic file (type QTm)
+ <use  "img/chap2/Face++API.png" >
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
+[6]
+Underfull \vbox (badness 4518) has occurred while \output is active []
 
-] [6]
-Underfull \vbox (badness 4673) has occurred while \output is active []
-
- [7])
-[8]
+ [7]
+[8]) [9]
 \openout2 = `chap/chap3.aux'.
 
- (./chap/chap3.tex
+ (./chap/chap3.tex [10
+
+
+
+]
 第三章
-[9
-
-
-
-]) [10]
+[11]) [12]
 \openout2 = `chap/chap4.aux'.
 
  (./chap/chap4.tex
 第四章
-[11
+[13
 
 
 
-]) [12]
+]) [14]
 \openout2 = `chap/chap5.aux'.
 
  (./chap/chap5.tex
 第五章
-) [13
+) [15
 
 
 
 ]
-\openout2 = `chap/conclusion.aux'.
 
- (./chap/conclusion.tex [14
+LaTeX Warning: Empty bibliography on input line 131.
 
-
-
-]) [15] [16
-
-
-]
-LaTeX Font Info:    Font shape `T1/ntxrx/m/it' will be
-(Font)              scaled to size 10.54pt on input line 131.
-LaTeX Font Info:    Font shape `T1/ntxrx/m/sc' will be
-(Font)              scaled to size 10.54pt on input line 131.
- [17]
-\openout2 = `chap/encl1.aux'.
-
- (./chap/encl1.tex [18
-
-
-]
-附录\nobreakspace {}A
-) [19] [20
+[16
 
 
 ]
 \openout2 = `chap/acknowledge.aux'.
 
- (./chap/acknowledge.tex) [21
+ (./chap/acknowledge.tex) [17
 
 
 ]
 \openout2 = `chap/originauth.aux'.
 
- (./chap/originauth.tex [22
+ (./chap/originauth.tex [18
 
 
 
@@ -2512,34 +2456,30 @@ File: ts1ntxrx.fd 2012/04/15 v1.0
 )
 LaTeX Font Info:    Font shape `TS1/ntxrx/m/n' will be
 (Font)              scaled to size 12.05pt on input line 62.
-) [23]
+) [19]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
 
-(./thesis.aux (./chap/copyright.aux) (./chap/abstract.aux)
-(./chap/introduction.aux) (./chap/chap1.aux) (./chap/chap2.aux)
-(./chap/chap3.aux) (./chap/chap4.aux) (./chap/chap5.aux) (./chap/conclusion.aux
-) (./chap/encl1.aux) (./chap/acknowledge.aux) (./chap/originauth.aux))
+(./thesis.aux (./chap/copyright.aux) (./chap/abstract.aux) (./chap/chap1.aux)
+(./chap/chap2.aux) (./chap/chap3.aux) (./chap/chap4.aux) (./chap/chap5.aux)
+(./chap/acknowledge.aux) (./chap/originauth.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 156.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 156.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33934 strings out of 493918
- 633405 string characters out of 6148600
- 1033139 words of memory out of 5000000
- 36648 multiletter control sequences out of 15000+600000
- 56875 words of font info for 112 fonts, out of 8000000 for 9000
+ 33730 strings out of 493918
+ 629202 string characters out of 6148600
+ 1026683 words of memory out of 5000000
+ 36469 multiletter control sequences out of 15000+600000
+ 49014 words of font info for 106 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 68i,11n,77p,10441b,923s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,11n,77p,10441b,706s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (32 pages).
+Output written on thesis.pdf (28 pages).
