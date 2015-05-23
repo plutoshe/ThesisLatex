@@ -319,6 +319,8 @@ INPUT chap/chap4.aux
 INPUT chap/chap4.aux
 INPUT chap/chap5.aux
 INPUT chap/chap5.aux
+INPUT chap/conclusion.aux
+INPUT chap/conclusion.aux
 INPUT chap/acknowledge.aux
 INPUT chap/acknowledge.aux
 INPUT chap/originauth.aux
@@ -448,6 +450,9 @@ INPUT img/chap2/Face++API.png
 OUTPUT chap/chap5.aux
 INPUT chap/chap5.tex
 INPUT chap/chap5.tex
+OUTPUT chap/conclusion.aux
+INPUT chap/conclusion.tex
+INPUT chap/conclusion.tex
 OUTPUT chap/acknowledge.aux
 INPUT chap/acknowledge.tex
 INPUT chap/acknowledge.tex
@@ -472,6 +477,8 @@ INPUT chap/chap4.aux
 INPUT chap/chap4.aux
 INPUT chap/chap5.aux
 INPUT chap/chap5.aux
+INPUT chap/conclusion.aux
+INPUT chap/conclusion.aux
 INPUT chap/acknowledge.aux
 INPUT chap/acknowledge.aux
 INPUT chap/originauth.aux

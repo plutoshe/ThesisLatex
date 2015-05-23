@@ -84,10 +84,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.1.1}数据库用户分析}{19}{subsection.5.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.2}实验结果}{19}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.2}实验结果}{20}{subsection.5.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}展望}{19}{section.5.2}
+\contentsline {chapter}{本文总结}{21}{chapter*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.1}基于用户特点喜好的更进一步的匹配算法}{19}{subsection.5.2.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{致谢}{21}{appendix*.13}
+\contentsline {chapter}{致谢}{23}{appendix*.15}

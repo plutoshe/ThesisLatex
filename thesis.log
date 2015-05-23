@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2014.6.2)  23 MAY 2015 22:52
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2014.6.2)  24 MAY 2015 02:28
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1998,7 +1998,8 @@ File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 
 LaTeX Warning: Label `Face++API' multiply defined.
 
-) (./chap/chap5.aux) (./chap/acknowledge.aux) (./chap/originauth.aux))
+) (./chap/chap5.aux) (./chap/conclusion.aux) (./chap/acknowledge.aux)
+(./chap/originauth.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 92.
@@ -2460,7 +2461,18 @@ Missing character: There is no 𝑑 in font t1xr!
 
  (./chap/chap5.tex
 第五章
-) [19
+
+Underfull \vbox (badness 1097) has occurred while \output is active []
+
+ [19
+
+
+
+])
+[20]
+\openout2 = `chap/conclusion.aux'.
+
+ (./chap/conclusion.tex) [21
 
 
 
@@ -2468,19 +2480,19 @@ Missing character: There is no 𝑑 in font t1xr!
 
 LaTeX Warning: Empty bibliography on input line 131.
 
-[20
+[22
 
 
 ]
 \openout2 = `chap/acknowledge.aux'.
 
- (./chap/acknowledge.tex) [21
+ (./chap/acknowledge.tex) [23
 
 
 ]
 \openout2 = `chap/originauth.aux'.
 
- (./chap/originauth.tex [22
+ (./chap/originauth.tex [24
 
 
 
@@ -2493,13 +2505,13 @@ File: ts1ntxrx.fd 2012/04/15 v1.0
 )
 LaTeX Font Info:    Font shape `TS1/ntxrx/m/n' will be
 (Font)              scaled to size 12.05pt on input line 62.
-) [23]
+) [25]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
 
 (./thesis.aux (./chap/copyright.aux) (./chap/abstract.aux) (./chap/chap1.aux)
 (./chap/chap2.aux) (./chap/chap3.aux) (./chap/chap4.aux) (./chap/chap5.aux)
-(./chap/acknowledge.aux) (./chap/originauth.aux))
+(./chap/conclusion.aux) (./chap/acknowledge.aux) (./chap/originauth.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 156.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 156.
 
@@ -2514,12 +2526,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33739 strings out of 493918
- 629619 string characters out of 6148600
- 1019723 words of memory out of 5000000
+ 33746 strings out of 493918
+ 629754 string characters out of 6148600
+ 1022251 words of memory out of 5000000
  36478 multiletter control sequences out of 15000+600000
  49014 words of font info for 106 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  68i,12n,77p,10441b,706s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (32 pages).
+Output written on thesis.pdf (34 pages).
