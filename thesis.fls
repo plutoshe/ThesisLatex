@@ -438,6 +438,7 @@ INPUT chap/chap2.tex
 INPUT chap/chap2.tex
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/txfonts/t1xb.tfm
 INPUT img/chap2/Face++API.png
+INPUT img/chap2/Face++API.png
 OUTPUT chap/chap3.aux
 INPUT chap/chap3.tex
 INPUT chap/chap3.tex
