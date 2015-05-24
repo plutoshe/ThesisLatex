@@ -22,7 +22,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.1.2.2}ionic}{7}{subsubsection.2.1.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.2.3}技术选用}{7}{subsubsection.2.1.2.3}
+\contentsline {subsubsection}{\numberline {2.1.2.3}技术选用}{8}{subsubsection.2.1.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.3}数据库调研}{8}{subsection.2.1.3}
 \defcounter {refsection}{0}\relax 
@@ -30,53 +30,47 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.1.3.2}数据来源}{8}{subsubsection.2.1.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.4}crawler}{8}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.4}爬虫}{9}{subsection.2.1.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {第三章\hspace {0.3em}}系统设计}{11}{chapter.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}匹配算法设计}{11}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}基于人脸相似度的算法设计}{11}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.1}基本原理}{11}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}基于用户信息的算法设计}{11}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.2}基于人脸相似度的算法设计}{11}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.3}基于机器学习的算法设计}{12}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.3}机器学习算法设计}{12}{subsection.3.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}face++ SDK for node.js}{12}{section.3.2}
+\contentsline {subsection}{\numberline {3.1.4}}{12}{subsection.3.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}系统架构}{13}{section.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}服务器设计}{13}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}数据库设计}{13}{section.3.4}
+\contentsline {subsection}{\numberline {3.3.1}face++ SDK for node.js}{13}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}数据库设计}{14}{section.3.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {第四章\hspace {0.3em}}系统实现}{15}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}crawler}{15}{section.4.1}
+\contentsline {section}{\numberline {4.1}爬虫模块}{15}{section.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.1.1}爬取基本数据}{15}{subsection.4.1.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.1.2}导入数据库}{15}{subsection.4.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}应用端}{15}{section.4.2}
+\contentsline {section}{\numberline {4.2}应用端模块}{15}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}状态查询及展示}{15}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.1}状态查询及展示}{16}{subsection.4.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.2}信息源添加}{16}{subsection.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}匹配信息展⽰}{17}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.3}匹配信息展⽰}{18}{subsection.4.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.4}详细资料界面}{17}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.4}详细资料界面}{18}{subsection.4.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}}{17}{section.4.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}匹配算法设计}{17}{section.4.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.1}face++已有的人脸匹配算法}{17}{subsection.4.4.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.2}人脸特征}{17}{subsection.4.4.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.3}用户信息}{18}{subsection.4.4.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.4}机器学习算法}{18}{subsection.4.4.4}
+\contentsline {section}{\numberline {4.3}}{18}{section.4.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {第五章\hspace {0.3em}}总结和展望}{19}{chapter.5}
 \defcounter {refsection}{0}\relax 
@@ -86,6 +80,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.1.2}实验结果}{20}{subsection.5.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{本文总结}{21}{chapter*.13}
+\contentsline {chapter}{本文总结}{21}{chapter*.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{致谢}{23}{appendix*.15}
+\contentsline {chapter}{致谢}{23}{appendix*.17}

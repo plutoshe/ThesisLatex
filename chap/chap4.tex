@@ -3,24 +3,28 @@
 % Public domain.
 
 \chapter{系统实现}
-\section{crawler}
+\section{爬虫模块}
 基于在本文第二部分中的数据来源和爬虫的分析，采用beautifulSoup技术来进行扒取数据。
 \subsection{爬取基本数据}
+\begin{figure}[h]
+\includegraphics[width=\textwidth]{img/chap4/jiayuan1.png}
+\caption{世纪佳缘用户信息页面\label{Face++API}}
+\end{figure}
+\begin{figure}[h]
+\includegraphics[width=\textwidth]{img/chap4/jiayuan2.png}
+\caption{世纪佳缘需权限信息页面\label{Face++API}}
+\end{figure}
+
+通过前期充分对于世纪佳缘网站上数据的发掘，本文找到了一个基于用户id以及对应用户数据的网页，从图4.1，图4.2可以看出，此网页url为用户id与前缀结合，而除了一些用户的图片和信息设置为成权限可见之外，其他的数据对于爬虫都是友好的。
+
 ［伪代码1］
 \subsection{导入数据库}
 提交到用户数据库的代码
 [伪代码2]
 
-\section{应用端}
+\section{应用端模块}
 该应用的实现由三步组成:状态查询,信息源添加,和匹配反馈。
 具体的应用端的逻辑，由一个类似的iOS框架图来类比。
-\begin{figure}[h]
-\begin{minipage}[t]{0.45\linewidth}
-\centering
-\includegraphics[width=\textwidth]{img/chap2/Face++API.png}
-\caption{Face++API\label{Face++API}}
-\end{minipage}
-\end{figure}
 
 \subsection{状态查询及展示}
 用户在使⽤应⽤程序查看他人已经存在的用户信息，需进行对于用户信息的一个预览，以及对于具体应用信息的查询。
@@ -45,17 +49,6 @@
 
 \section{}
 
-\section{匹配算法设计}
-\subsection{face++已有的人脸匹配算法}
-\subsection{人脸特征}
-根据face++能够得到用户的五官的位置
-\subsection{用户信息}
-根据网上的爬虫数据，能够得到男女，地区和星座年龄等信息，根据这一些进行匹配
-\subsection{机器学习算法}
-由于匹配系统不仅需要识别每个密码的键盘输入值,还需要识别每个手指点 击的二进制标签值(非大即小)。
-
-本文将密码识别问题看做一个分类问题(或一个监督学习问题),即根据用户本身图片的特征值和过去用户感兴趣的图片信息的历史特征值来对一个手指点击事件分类。
-TapLock 密码识别问题的目标是确定新发生的手指点击事件的标签(即测试 用例)。在密码设定过程中,我们收集了一组过去的手指点击事件(即训练用例), 用 D 表示这个集合。每个用例d ∈ D能被两个特征值和一个点击标签描述。令这 两个属性2为𝐴𝑑,1 = 𝑔𝑒𝑡𝑇𝑜𝑢𝑐h𝑀𝑎𝑗𝑜𝑟(), 𝐴𝑑,2 = 𝑔𝑒𝑡𝑆𝑖𝑧𝑒(),若用例 d 被分类为小(或 大)则点击标签为𝐿𝑑 = 0(或𝐿𝑑 = 1)。
 
 
 

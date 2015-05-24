@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2014.6.2)  24 MAY 2015 02:28
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2014.6.2)  24 MAY 2015 20:31
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1998,65 +1998,71 @@ File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 
 LaTeX Warning: Label `Face++API' multiply defined.
 
-) (./chap/chap5.aux) (./chap/conclusion.aux) (./chap/acknowledge.aux)
-(./chap/originauth.aux))
+
+LaTeX Warning: Label `Face++API' multiply defined.
+
+) (./chap/chap5.aux
+
+LaTeX Warning: Label `Face++API' multiply defined.
+
+) (./chap/conclusion.aux) (./chap/acknowledge.aux) (./chap/originauth.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 92.
-LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 92
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 95.
+LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 95
 .
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2012/03/22 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 92.
-LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 92
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 95.
+LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 95
 .
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/newtx/omsntxsy.fd
 File: omsntxsy.fd 2012/11/14 Fontinst v1.933 font definitions for OMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 92.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 92.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 95.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 95.
 
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 92.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 92.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 95.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 95.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Try loading font information for T1+ntxrx on input line 92.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Try loading font information for T1+ntxrx on input line 95.
 
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/newtx/t1ntxrx.fd
 File: t1ntxrx.fd 2012/12/25 v1.0
 )
 LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 12.05pt on input line 92.
+(Font)              scaled to size 12.05pt on input line 95.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -2064,61 +2070,61 @@ LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
 .................................................
 \symlegacymaths=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 92.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 92.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 92.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 92.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 92.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 92.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 92.
-LaTeX Font Info:    Redeclaring math accent \check on input line 92.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 92.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 92.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 92.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 92.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 95.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 95.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 95.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 95.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 95.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 95.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 95.
+LaTeX Font Info:    Redeclaring math accent \check on input line 95.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 95.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 95.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 95.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 95.
 LaTeX Font Info:    Encoding `T1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 92.
+(Font)              `operators' in the math version `normal' on input line 95.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  T1/ntxrx/m/n --> EU1/ntxrx/m/n on input line 92.
+(Font)                  T1/ntxrx/m/n --> EU1/ntxrx/m/n on input line 95.
 LaTeX Font Info:    Encoding `T1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 92.
+(Font)              `operators' in the math version `bold' on input line 95.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  T1/ntxrx/b/n --> EU1/ntxrx/m/n on input line 92.
+(Font)                  T1/ntxrx/b/n --> EU1/ntxrx/m/n on input line 95.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/ntxrx/m/n --> EU1/ntxrx/m/n on input line 92.
+(Font)                  EU1/ntxrx/m/n --> EU1/ntxrx/m/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  EU1/ntxrx/m/n --> EU1/ntxrx/m/n on input line 92.
+(Font)                  EU1/ntxrx/m/n --> EU1/ntxrx/m/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  T1/ntxrx/m/it --> EU1/ntxrx/m/it on input line 92.
+(Font)                  T1/ntxrx/m/it --> EU1/ntxrx/m/it on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  T1/ntxrx/b/n --> EU1/ntxrx/bx/n on input line 92.
+(Font)                  T1/ntxrx/b/n --> EU1/ntxrx/bx/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  T1/qhv/m/n --> EU1/qhv/m/n on input line 92.
+(Font)                  T1/qhv/m/n --> EU1/qhv/m/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  T1/ntxtt/m/n --> EU1/ntxtt/m/n on input line 92.
+(Font)                  T1/ntxtt/m/n --> EU1/ntxtt/m/n on input line 95.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/ntxrx/m/n --> EU1/ntxrx/bx/n on input line 92.
+(Font)                  EU1/ntxrx/m/n --> EU1/ntxrx/bx/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  EU1/ntxrx/m/n --> EU1/ntxrx/bx/n on input line 92.
+(Font)                  EU1/ntxrx/m/n --> EU1/ntxrx/bx/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/ntxrx/b/it --> EU1/ntxrx/bx/it on input line 92.
+(Font)                  T1/ntxrx/b/it --> EU1/ntxrx/bx/it on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/qhv/b/n --> EU1/qhv/bx/n on input line 92.
+(Font)                  T1/qhv/b/n --> EU1/qhv/bx/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/ntxtt/b/n --> EU1/ntxtt/bx/n on input line 92.
-LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 92.
+(Font)                  T1/ntxtt/b/n --> EU1/ntxtt/bx/n on input line 95.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 95.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2161,7 +2167,7 @@ Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Option `colorlinks' set `true' on input line 92.
+Package hyperref Info: Option `colorlinks' set `true' on input line 95.
 Package biblatex Info: Input encoding 'UTF-8' specified.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'UTF-8'.
@@ -2170,12 +2176,12 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
 (./thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 92.
-Package biblatex Info: Reference segment=0 on input line 92.
+Package biblatex Info: Reference section=0 on input line 95.
+Package biblatex Info: Reference segment=0 on input line 95.
 \c@mv@tabular=\count374
 \c@mv@boldtabular=\count375
 \AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring ON on input line 92.
+Package hyperref Info: Link coloring ON on input line 95.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -2185,53 +2191,53 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count376
 )
-LaTeX Info: Redefining \ref on input line 92.
-LaTeX Info: Redefining \pageref on input line 92.
-LaTeX Info: Redefining \nameref on input line 92.
+LaTeX Info: Redefining \ref on input line 95.
+LaTeX Info: Redefining \pageref on input line 95.
+LaTeX Info: Redefining \nameref on input line 95.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write4
 \openout4 = `thesis.out'.
 
 LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 26.1pt on input line 101.
+(Font)              scaled to size 26.1pt on input line 104.
 File: pkulogo.pdf Graphic file (type QTm)
  <use  "pkulogo.pdf" >
 File: pkuword.pdf Graphic file (type QTm)
  <use  "pkuword.pdf" >
 LaTeX Font Info:    Font shape `T1/ntxrx/bx/n' will be
-(Font)              scaled to size 26.1pt on input line 101.
+(Font)              scaled to size 26.1pt on input line 104.
 LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 22.08pt on input line 101.
+(Font)              scaled to size 22.08pt on input line 104.
 LaTeX Font Info:    Font shape `T1/ntxrx/bx/n' will be
-(Font)              scaled to size 22.08pt on input line 101.
+(Font)              scaled to size 22.08pt on input line 104.
 \pkuthss@tmp@linecount=\count377
 LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 18.07pt on input line 101.
+(Font)              scaled to size 18.07pt on input line 104.
 LaTeX Font Info:    Try loading font information for EU1+ntxrx on input line 10
-1.
-LaTeX Font Info:    No file EU1ntxrx.fd. on input line 101.
+4.
+LaTeX Font Info:    No file EU1ntxrx.fd. on input line 104.
 
 
 LaTeX Font Warning: Font shape `EU1/ntxrx/m/n' undefined
-(Font)              using `EU1/lmr/m/n' instead on input line 101.
+(Font)              using `EU1/lmr/m/n' instead on input line 104.
 
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 101
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 104
 .
 (/usr/local/texlive/2013/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 101.
+LaTeX Font Info:    Try loading font information for U+msa on input line 104.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 101.
+LaTeX Font Info:    Try loading font information for U+msb on input line 104.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 101
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 104
 .
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/newtx/untxsyc.fd
@@ -2345,7 +2351,7 @@ File: img/chap1/twitter_recommend.png Graphic file (type QTm)
  <use  "img/chap1/twitter_recommend.png" >
 File: img/chap1/weibo_recommend.png Graphic file (type QTm)
 
-<use  "img/chap1/weibo_recommend.png" >
+<use  "img/chap1/weibo_recommend.png" > [2]
 Missing character: There is no 􏰉 in font t1xr!
 Missing character: There is no 􏴳 in font t1xr!
 Missing character: There is no 􏰭 in font t1xr!
@@ -2379,7 +2385,7 @@ Missing character: There is no 􏴿 in font t1xr!
 Missing character: There is no 􏵀 in font t1xr!
 Missing character: There is no 􏱾 in font t1xr!
 Missing character: There is no 􏱜 in font t1xr!
- [2]) [3]
+) [3]
 \openout2 = `chap/chap2.aux'.
 
  (./chap/chap2.tex [4
@@ -2403,31 +2409,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 第三章
-[11]
-File: img/chap2/Face++API.png Graphic file (type QTm)
- <use  "img/chap2/Face++API.png" >
-Underfull \vbox (badness 3428) has occurred while \output is active []
-
- [12])
-[13]
-\openout2 = `chap/chap4.aux'.
-
- (./chap/chap4.tex [14
-
-
-
-]
-第四章
-File: img/chap2/Face++API.png Graphic file (type QTm)
-<use  "img/chap2/Face++API.png" >
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[15]
-Missing character: There is no ﬁ in font t1xr!
- [16]
-Missing character: There is no ⽰ in font STZhongsong/OT:mapping=tex-text;!
- [17]
+[11] [12]
 Missing character: There is no ∈ in font t1xr!
 Missing character: There is no 𝐴 in font t1xr!
 Missing character: There is no 𝑑 in font t1xr!
@@ -2456,20 +2438,57 @@ Missing character: There is no 𝐿 in font t1xr!
 Missing character: There is no 𝑑 in font t1xr!
 Missing character: There is no 𝐿 in font t1xr!
 Missing character: There is no 𝑑 in font t1xr!
-) [18]
+File: img/chap3/Face++API.png Graphic file (type QTm)
+ <use  "img/chap3/Face++API.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+Underfull \vbox (badness 5446) has occurred while \output is active []
+
+ [13]
+[14]
+\openout2 = `chap/chap4.aux'.
+
+ (./chap/chap4.tex
+第四章
+File: img/chap4/jiayuan1.png Graphic file (type QTm)
+<use  "img/chap4/jiayuan1.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: img/chap4/jiayuan2.png Graphic file (type QTm)
+<use  "img/chap4/jiayuan2.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15
+
+
+
+]
+Missing character: There is no ﬁ in font t1xr!
+ [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+Missing character: There is no ⽰ in font STZhongsong/OT:mapping=tex-text;!
+)
+[18]
 \openout2 = `chap/chap5.aux'.
 
  (./chap/chap5.tex
 第五章
+File: img/chap5/how_old.png Graphic file (type QTm)
+<use  "img/chap5/how_old.png" >
 
-Underfull \vbox (badness 1097) has occurred while \output is active []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
- [19
+[19
 
 
 
-])
-[20]
+]) [20]
 \openout2 = `chap/conclusion.aux'.
 
  (./chap/conclusion.tex) [21
@@ -2478,7 +2497,7 @@ Underfull \vbox (badness 1097) has occurred while \output is active []
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 131.
+LaTeX Warning: Empty bibliography on input line 134.
 
 [22
 
@@ -2506,14 +2525,14 @@ File: ts1ntxrx.fd 2012/04/15 v1.0
 LaTeX Font Info:    Font shape `TS1/ntxrx/m/n' will be
 (Font)              scaled to size 12.05pt on input line 62.
 ) [25]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
 
 (./thesis.aux (./chap/copyright.aux) (./chap/abstract.aux) (./chap/chap1.aux)
 (./chap/chap2.aux) (./chap/chap3.aux) (./chap/chap4.aux) (./chap/chap5.aux)
 (./chap/conclusion.aux) (./chap/acknowledge.aux) (./chap/originauth.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 156.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 156.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 160.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 160.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2526,10 +2545,10 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33746 strings out of 493918
- 629754 string characters out of 6148600
- 1022251 words of memory out of 5000000
- 36478 multiletter control sequences out of 15000+600000
+ 33750 strings out of 493918
+ 629792 string characters out of 6148600
+ 1021269 words of memory out of 5000000
+ 36477 multiletter control sequences out of 15000+600000
  49014 words of font info for 106 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  68i,12n,77p,10441b,706s stack positions out of 5000i,500n,10000p,200000b,80000s
