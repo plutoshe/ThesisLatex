@@ -37,6 +37,7 @@
 \usepackage[defaultsups]{newtxtext}
 \usepackage{newtxmath}
 % 产生 originauth.tex 里的 \square。
+\usepackage{clrscode}
 \usepackage{amssymb}
 \usepackage{float}
 \usepackage{subfig}
@@ -128,11 +129,11 @@
 	% 结论。
 	\include{chap/conclusion}
 
-	% 正文中的附录部分。
+	正文中的附录部分。
 	\appendix
 	% 排版参考文献列表。
 	\printbibliography[
-		title = {文献},
+		title = 文献,
 		% 使“参考文献”出现在目录中；如果同时要使参考文献列表参与章节编号，
 		% 可将“bibintoc”改为“bibnumbered”。
 		heading = bibnumbered,
@@ -143,8 +144,10 @@
 		% 在这样的情况下，请去掉所有的 sorting 选项，否则可能出错。
 		sorting = ecnty
 	]
-	% 各附录。
-	% \include{chap/encl1}
+	% % 各附录。
+	% \appendix
+	% \printbibliography[title = {文献},heading = bibintoc, sorting = ecnty]
+	\include{chap/encl1}
 
 	% 以下为正文之后的部分，默认不进行章节编号。
 	\backmatter

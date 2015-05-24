@@ -15,42 +15,89 @@
 \caption{世纪佳缘需权限信息页面\label{Face++API}}
 \end{figure}
 
-通过前期充分对于世纪佳缘网站上数据的发掘，本文找到了一个基于用户id以及对应用户数据的网页，从图4.1，图4.2可以看出，此网页url为用户id与前缀结合，而除了一些用户的图片和信息设置为成权限可见之外，其他的数据对于爬虫都是友好的。
+通过前期充分对于世纪佳缘网站上数据的发掘，本文找到了一个基于用户id以及对应用户数据的网页，从图4.1，图4.2可以看出，此网页url为用户id与前缀结合，而除了一些用户的图片和信息设置为成权限可见之外，其他的数据对于爬虫都是友好的。最后对于抓取到的数据信息，存储到到用户数据库之中。伪代码如下所示。
 
-［伪代码1］
-\subsection{导入数据库}
-提交到用户数据库的代码
-[伪代码2]
+\begin{codebox}
+\Procname{$\proc{Crawler}$}
+\li \For $j \gets $ \To the Amount of extrace \label{li:for}
+\li     \Do \label{li:for-begin}
+\li 	$Data \gets$ info from url
+\li \For $k \gets$ Every Elements form $Data$\label{li:for}
+\li     \Do \label{li:for-begin}
+\li      Insert $k$ into the sorted sequence $Request$.
+\label{li:for-end}
+                \End
+\li         $Request$ submit to database       \label{li:for-end}
+        \End
+\end{codebox}
+
+% ［伪代码1］
+% \subsection{导入数据库}
+
+% [伪代码2]
 
 \section{应用端模块}
 该应用的实现由三步组成:状态查询,信息源添加,和匹配反馈。
 具体的应用端的逻辑，由一个类似的iOS框架图来类比。
 
 \subsection{状态查询及展示}
-用户在使⽤应⽤程序查看他人已经存在的用户信息，需进行对于用户信息的一个预览，以及对于具体应用信息的查询。
+为了满足用户自己查询感兴趣好友的需求，应用需要提供用户在使⽤应⽤程序查看他人已经存在的用户信息。并为了便携性和可用性，需完成进行对于用户信息的一个预览，以及对于具体应用信息的查询。
 
-根据用户需求可以查看具体的信息，并可以支持用户随时对于需要的信息的刷新，以及链接用户更进一步的个人主页的途径。
-针对
-［伪代码2］［贴实际效果图］
+从而可以满足用户的需求，去其他用户查看具体的信息，并可以支持用户随时对于需要的信息的刷新，以及链接用户更进一步的个人主页的途径。
+\begin{figure}[h] 
+\begin{minipage}[t]{0.3\linewidth}
+\centering
+\includegraphics[width=\textwidth]{img/chap4/info1.jpg}
+\caption{主界面\label{flickr}}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.3\linewidth}
+\centering
+\includegraphics[width=\textwidth]{img/chap4/info2.jpg}
+\caption{详细信息\label{instagram}}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.3\linewidth}
+\centering
+\includegraphics[width=\textwidth]{img/chap4/info3.PNG}
+\caption{刷新\label{snapchat}}
+\end{minipage}
+\hfill
+\end{figure}
+
 \subsection{信息源添加}
-信息发布者在使⽤用应⽤用程序添加信息源时,需进⾏行上下⽂文采集和添加详细信息 两⽅方⾯面操作。
-由于前⽂文提到的传感器数据在精确度和稳定性上的弊端,为了改善整个系统的 ⼯工作效果,上下⽂文采集过程需要在应⽤用程序⾃自动采集传感器数据的基础上,增加⼀一 定的⼈人⼯工⼲干预以进⾏行优化。对于位置信息,应⽤用程序将采集到的坐标显⽰示为地图上 的⼀一个⼤大头针,如果⽤用户认为此位置不准确,可以拖动地图以调整到准确的位置。 对于磁场计信息和 iBeacon 信号,由于它们总是随着时间不停地变动,应⽤用程序将 它们以友好的形式显⽰示出来 (磁场计信息显⽰示为设备⽅方向⾓角度,iBeacon 信号显⽰示为 每个 iBeacon 的 minor identiﬁﾞer 和距离值),⽤用户可以随时观察这些数值的变化,并 冻结在⽐比较满意的数值上 (图 1-a)。
+用户关系自己信息的发布通常希望其发布的信息具有多种多样的形式,考虑到移动设备较难编辑和显⽰示富⽂文本信息,应⽤用程序被实现为能够编辑、存储和显⽰示具有多种类型的字段,包括个人姓名、个人介绍、URL和提交的匹配图片
 
-信息发布者通常希望其发布的信息具有多种多样的形式,考虑到移动设备较难 编辑和显⽰示富⽂文本信息,应⽤用程序被实现为能够编辑、存储和显⽰示具有多种类型的 字段,包括标题、详细介绍、URL 或应⽤用程序跳转链接*和图⽚片 (图 1-b)。
+并且基于用户照片来源的不同，分为从用户的图片库中采集和及时照相功能。并在此基础上实现了图片预览的功能
+\begin{figure}[h] 
+\begin{minipage}[t]{0.45\linewidth}
+\centering
+\includegraphics[width=\textwidth]{img/chap4/take1.jpg}
+\caption{主界面\label{flickr}}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.45\linewidth}
+\centering
+\includegraphics[width=\textwidth]{img/chap4/take2.jpg}
+\caption{详细信息\label{instagram}}
+\end{minipage}
 
-基于用户照片来源的不同
-［伪代码］［实际效果图］
+
+\end{figure}
 \subsection{匹配信息展⽰}
-由于服务端将客户端提交的图片以及文本信息直接调用对应匹配算法的接口,因此, ⽤用户在选择了信息识别编码后,服务端便具有了⾜足够的信息以匹配出⽤用户想要了解 的信息源。在服务端返回给客户端匹配出的结果后,客户端将详细信息显⽰示在⽤用户 界⾯面上 (图3)。如果具有多条匹配结果,客户端将按照匹配程度顺序将结果显⽰示为列 表的形式。
-［伪代码］［实际效果图］
-\subsection{详细资料界面}
-［伪代码］［实际效果图］
+由于服务端有客户端提交的图片以及文本信息直接调用对应匹配算法的接口,因此,应用端在用户在提交了自己的信息之后便直接调用了此接口,服务端便具有了足够的信息以匹配出对应的好友。
+
+在服务端返回给客户端匹配出的结果后,客户端将详细信息显⽰示在⽤用户界⾯面上。这里具有具有多条匹配结果，客户端将按照匹配程度顺序将结果显⽰。当用户对该用户感兴趣时即点击按钮进入查询详细信息。
+
+\begin{figure}[h] 
+\begin{minipage}[t]{0.45\linewidth}
+\centering
+\includegraphics[width=\textwidth]{img/chap4/display.PNG}
+\caption{展示界面\label{instagram}}
+\end{minipage}
 
 
-\section{}
-
-
-
+\end{figure}
 
 % 中文测试文字。
 

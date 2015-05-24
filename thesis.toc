@@ -58,28 +58,24 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.1.1}爬取基本数据}{17}{subsection.4.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.2}导入数据库}{18}{subsection.4.1.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}应用端模块}{18}{section.4.2}
+\contentsline {section}{\numberline {4.2}应用端模块}{19}{section.4.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.1}状态查询及展示}{19}{subsection.4.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.2}信息源添加}{19}{subsection.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}匹配信息展⽰}{19}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.3}匹配信息展⽰}{20}{subsection.4.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.4}详细资料界面}{20}{subsection.4.2.4}
+\contentsline {chapter}{\numberline {第五章\hspace {0.3em}}总结和展望}{23}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}}{20}{section.4.3}
+\contentsline {section}{\numberline {5.1}系统测试}{23}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第五章\hspace {0.3em}}总结和展望}{21}{chapter.5}
+\contentsline {subsection}{\numberline {5.1.1}数据库用户分析}{23}{subsection.5.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}系统测试}{21}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.2}实验结果}{24}{subsection.5.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.1}数据库用户分析}{21}{subsection.5.1.1}
+\contentsline {chapter}{本文总结}{27}{chapter*.23}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.2}实验结果}{22}{subsection.5.1.2}
+\contentsline {chapter}{\numberline {附录\nobreakspace {}A\hspace {0.3em}}附件}{29}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{本文总结}{23}{chapter*.18}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{致谢}{25}{appendix*.20}
+\contentsline {chapter}{致谢}{31}{appendix*.25}

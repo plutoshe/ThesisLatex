@@ -1941,6 +1941,10 @@
     <bcf:datasource type="file" datatype="bibtex">thesis.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1">test-en</bcf:citekey>
+    <bcf:citekey order="2">test-zh</bcf:citekey>
+    <bcf:citekey order="3">test-en</bcf:citekey>
+    <bcf:citekey order="3">test-zh</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="ecnty">
   <bcf:sorting>
