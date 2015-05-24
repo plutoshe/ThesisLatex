@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2014.6.2)  25 MAY 2015 00:33
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2014.6.2)  25 MAY 2015 00:36
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2469,7 +2469,7 @@ Missing character: There is no 􏱜 in font t1xr!
  (./chap/chap2.tex
 第二章
 LaTeX Font Info:    Font shape `T1/ntxrx/bx/n' will be
-(Font)              scaled to size 15.06pt on input line 8.
+(Font)              scaled to size 15.06pt on input line 10.
 [5
 
 
@@ -2608,104 +2608,4 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: img/chap5/exp1.png Graphic file (type QTm)
 <use  "img/chap5/exp1.png" > [23]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [24] [25]
-\openout2 = `chap/conclusion.aux'.
-
- (./chap/conclusion.tex [26
-
-
-
-]) [27]
-
-LaTeX Warning: Empty bibliography on input line 135.
-
-[28
-
-]
-\openout2 = `chap/encl1.aux'.
-
- (./chap/encl1.tex
-附录\nobreakspace {}A
-
-LaTeX Warning: Citation 'test-en' on page 29 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'test-zh' on page 29 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'test-en' on page 29 undefined on input line 7.
-
-LaTeX Font Info:    Font shape `T1/ntxrx/bx/n' will be
-(Font)              scaled to size 8.0pt on input line 7.
-
-LaTeX Warning: Citation 'test-zh' on page 29 undefined on input line 7.
-
-) [29
-
-
-] [30
-
-
-]
-\openout2 = `chap/acknowledge.aux'.
-
- (./chap/acknowledge.tex) [31
-
-
-]
-\openout2 = `chap/originauth.aux'.
-
- (./chap/originauth.tex [32
-
-
-
-]
-LaTeX Font Info:    Try loading font information for TS1+ntxrx on input line 62
-.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/newtx/ts1ntxrx.fd
-File: ts1ntxrx.fd 2012/04/15 v1.0
-)
-LaTeX Font Info:    Font shape `TS1/ntxrx/m/n' will be
-(Font)              scaled to size 12.05pt on input line 62.
-) [33]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
-
-(./thesis.aux (./chap/copyright.aux) (./chap/abstract.aux) (./chap/chap1.aux)
-(./chap/chap2.aux) (./chap/chap3.aux) (./chap/chap4.aux) (./chap/chap5.aux)
-(./chap/conclusion.aux) (./chap/encl1.aux) (./chap/acknowledge.aux)
-(./chap/originauth.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 163.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 163.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                thesis
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'thesis.run.xml'.
-\openout1 = `thesis.run.xml'.
-
- ) 
-Here is how much of TeX's memory you used:
- 34051 strings out of 493918
- 634694 string characters out of 6148600
- 1025679 words of memory out of 5000000
- 36740 multiletter control sequences out of 15000+600000
- 67236 words of font info for 118 fonts, out of 8000000 for 9000
- 1144 hyphenation exceptions out of 8191
- 68i,12n,77p,10441b,771s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on thesis.pdf (42 pages).
+LaTeX Warning: `h' flo
