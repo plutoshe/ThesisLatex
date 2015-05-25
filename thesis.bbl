@@ -16,5 +16,68 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \sortlist{entry}{ecnty}
+    \entry{biber}{online}{}
+      \name{labelname}{2}{}{%
+        {{hash=518f52ea2d73db1cfac0095db0482363}{Kime}{K\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6c2c18785a49578bb60659064cac3b81}{Charette}{C\bibinitperiod}{François}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=518f52ea2d73db1cfac0095db0482363}{Kime}{K\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6c2c18785a49578bb60659064cac3b81}{Charette}{C\bibinitperiod}{François}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{6820842cd16ba50d38432ce90c3816e6}
+      \strng{fullhash}{6820842cd16ba50d38432ce90c3816e6}
+      \field{sortinit}{e}
+      \field{labeltitle}{Biber: A backend bibliography processor for biblatex (Version 1.8)}
+      \field{day}{18}
+      \field{month}{10}
+      \field{title}{Biber: A backend bibliography processor for biblatex (Version 1.8)}
+      \field{type}{M/OL}
+      \field{urlday}{24}
+      \field{urlmonth}{05}
+      \field{urlyear}{2014}
+      \field{year}{2013}
+      \verb{url}
+      \verb http://mirror.ctan.org/biblio/biber/
+      \endverb
+    \endentry
+  \endsortlist
+  \sortlist{entry}{none}
+    \entry{biber}{online}{}
+      \name{labelname}{2}{}{%
+        {{hash=518f52ea2d73db1cfac0095db0482363}{Kime}{K\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6c2c18785a49578bb60659064cac3b81}{Charette}{C\bibinitperiod}{François}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=518f52ea2d73db1cfac0095db0482363}{Kime}{K\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6c2c18785a49578bb60659064cac3b81}{Charette}{C\bibinitperiod}{François}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{6820842cd16ba50d38432ce90c3816e6}
+      \strng{fullhash}{6820842cd16ba50d38432ce90c3816e6}
+      \field{sortinit}{0}
+      \field{labeltitle}{Biber: A backend bibliography processor for biblatex (Version 1.8)}
+      \field{day}{18}
+      \field{month}{10}
+      \field{title}{Biber: A backend bibliography processor for biblatex (Version 1.8)}
+      \field{type}{M/OL}
+      \field{urlday}{24}
+      \field{urlmonth}{05}
+      \field{urlyear}{2014}
+      \field{year}{2013}
+      \verb{url}
+      \verb http://mirror.ctan.org/biblio/biber/
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
 \endinput
 

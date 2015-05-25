@@ -78,6 +78,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{本文总结}{27}{chapter*.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {附录\nobreakspace {}A\hspace {0.3em}}附件}{29}{appendix.A}
+\contentsline {chapter}{参考文献}{29}{chapter*.22}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{致谢}{31}{appendix*.22}
+\contentsline {chapter}{致谢}{31}{chapter*.23}
