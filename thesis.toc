@@ -4,78 +4,78 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}背景分析}{1}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}方案概述}{3}{section.1.2}
+\contentsline {section}{\numberline {1.2}方案概述}{4}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}本文组织}{4}{section.1.3}
+\contentsline {section}{\numberline {1.3}本文组织}{5}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第二章\hspace {0.3em}}相关工作}{5}{chapter.2}
+\contentsline {chapter}{\numberline {第二章\hspace {0.3em}}相关工作}{6}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}人脸识别技术}{5}{section.2.1}
+\contentsline {section}{\numberline {2.1}人脸识别技术}{6}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Face++}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.1}Face++}{6}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}caffe}{6}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.2}caffe}{7}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.3}技术选用}{6}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.3}技术选用}{7}{subsection.2.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}移动应用}{6}{section.2.2}
+\contentsline {section}{\numberline {2.2}移动应用}{7}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}angularJS}{6}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.1}angularJS}{7}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}ionic}{7}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.2}ionic}{8}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}技术选用}{8}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.3}技术选用}{9}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}数据库调研}{8}{section.2.3}
+\contentsline {section}{\numberline {2.3}数据库调研}{9}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}mongodb}{8}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.1}mongodb}{9}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}数据来源}{8}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.2}数据来源}{9}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}爬虫}{9}{section.2.4}
+\contentsline {section}{\numberline {2.4}爬虫}{10}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第三章\hspace {0.3em}}系统设计}{10}{chapter.3}
+\contentsline {chapter}{\numberline {第三章\hspace {0.3em}}系统设计}{11}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}匹配算法设计}{10}{section.3.1}
+\contentsline {section}{\numberline {3.1}匹配算法设计}{11}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}基本原理}{10}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.1}基本原理}{11}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}基于人脸相似度的算法设计}{10}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.2}基于人脸相似度的算法设计}{11}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.3}机器学习算法设计}{11}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.3}机器学习算法设计}{12}{subsection.3.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}系统架构}{12}{section.3.2}
+\contentsline {section}{\numberline {3.2}系统服务器架构设计}{13}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}服务器设计}{12}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.1}face++ SDK}{14}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1.1}face++ SDK}{12}{subsubsection.3.2.1.1}
+\contentsline {subsection}{\numberline {3.2.2}数据库}{14}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1.2}数据库}{13}{subsubsection.3.2.1.2}
+\contentsline {chapter}{\numberline {第四章\hspace {0.3em}}系统实现}{16}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第四章\hspace {0.3em}}系统实现}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}爬虫模块}{16}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}爬虫模块}{15}{section.4.1}
+\contentsline {section}{\numberline {4.2}应用端模块}{18}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}爬取基本数据}{15}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.2.1}状态查询及展示}{18}{subsection.4.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}应用端模块}{17}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.2}信息源添加}{19}{subsection.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}状态查询及展示}{17}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.3}匹配信息展⽰}{19}{subsection.4.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}信息源添加}{17}{subsection.4.2.2}
+\contentsline {chapter}{\numberline {第五章\hspace {0.3em}}实验和展望}{21}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}匹配信息展⽰}{18}{subsection.4.2.3}
+\contentsline {section}{\numberline {5.1}系统测试}{21}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第五章\hspace {0.3em}}总结和展望}{20}{chapter.5}
+\contentsline {subsection}{\numberline {5.1.1}数据库用户分析}{21}{subsection.5.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}系统测试}{20}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.2}匹配算法实验}{22}{subsection.5.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.1}数据库用户分析}{20}{subsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2.1}实验设计}{22}{subsubsection.5.1.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.2}实验结果}{21}{subsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.2.2}实验结果}{22}{subsubsection.5.1.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{本文总结}{23}{chapter*.20}
+\contentsline {section}{\numberline {5.2}展望}{23}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{参考文献}{24}{chapter*.22}
+\contentsline {chapter}{本文总结}{25}{chapter*.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{致谢}{25}{chapter*.23}
+\contentsline {chapter}{致谢}{26}{chapter*.20}
