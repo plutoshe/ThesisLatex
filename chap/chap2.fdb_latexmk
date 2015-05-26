@@ -1,12 +1,10 @@
 # Fdb version 3
-["pdflatex"] 1432459695 "chap2.tex" "chap2.pdf" "chap2" 1432459696
-  "/usr/local/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
-  "/usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
+["pdflatex"] 1432644622 "chap2.tex" "chap2.pdf" "chap2" 1432644623
   "/usr/local/texlive/2013/texmf-dist/web2c/texmf.cnf" 1366045088 31707 0953c15448e216a6585e92ee639d2dc2 ""
   "/usr/local/texlive/2013/texmf-var/web2c/xetex/xelatex.fmt" 1401639378 3167830 2029b3d5099397abb36d2b03bf69d65b ""
   "/usr/local/texlive/2013/texmf.cnf" 1369923207 577 cbc827f6294276973a1952e86e8ad73a ""
-  "chap2.aux" 1432459623 6080 f09f971d3d33cb1dbcf19669c95ae8df ""
-  "chap2.tex" 1432459694 8607 477a524a78fda0294e887b11a4d5cb99 ""
+  "chap2.aux" 1432644193 6348 a85e659ca29ddb3b261dccf759991e7f ""
+  "chap2.tex" 1432644621 8645 2def1ac85437e590dbe965fe43124fba ""
   (generated)
   "chap2.pdf"
   "chap2.log"

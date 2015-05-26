@@ -457,7 +457,6 @@ INPUT img/chap3/server.png
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/txfonts/t1xtt.tfm
-INPUT img/chap3/ER.png
 INPUT img/chap3/database.png
 OUTPUT chap/chap4.aux
 INPUT chap/chap4.tex
