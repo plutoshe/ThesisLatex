@@ -16,5 +16,178 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \sortlist{entry}{none}
+    \entry{deepwalk}{online}{}
+      \name{labelname}{2}{}{%
+        {{hash=1b75246b86911182b7441e4047a466cf}{B.\bibnamedelimi Perozzi}{B\bibinitperiod\bibinitdelim P\bibinitperiod}{R.\bibnamedelimi Al-Rfou}{R\bibinitperiod\bibinitdelim A\bibinithyphendelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=adf16833052a349166c9867816c5fc3c}{Skiena.}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1b75246b86911182b7441e4047a466cf}{B.\bibnamedelimi Perozzi}{B\bibinitperiod\bibinitdelim P\bibinitperiod}{R.\bibnamedelimi Al-Rfou}{R\bibinitperiod\bibinitdelim A\bibinithyphendelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=adf16833052a349166c9867816c5fc3c}{Skiena.}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{99b4d1ea1a5ca11480587d1bef63b30b}
+      \strng{fullhash}{99b4d1ea1a5ca11480587d1bef63b30b}
+      \field{sortinit}{0}
+      \field{labeltitle}{Deepwalk: Online learning of social representations.}
+      \field{title}{Deepwalk: Online learning of social representations.}
+      \field{type}{In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining, pages 701–710. ACM}
+      \field{year}{2014}
+    \endentry
+    \entry{node1}{online}{}
+      \name{labelname}{6}{}{%
+        {{hash=541194db9dac70af45a28c067d289c8d}{Tang}{T\bibinitperiod}{Jian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=be51ffe8f55f70ee4360e3e6a1a4216e}{Qu}{Q\bibinitperiod}{Meng}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a9b32eefcfd0b44a27bae162e66746ae}{Wang}{W\bibinitperiod}{Mingzhe}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7a56aedb5f6ad175a5340edc7bf6267e}{Zhang}{Z\bibinitperiod}{Ming}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=934a0c3e849405255facd8113ba785b3}{Yan}{Y\bibinitperiod}{Jun}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2ca1c136fc4a8c4c39869eeaf7fade74}{Mei}{M\bibinitperiod}{Qiaozhu}{Q\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=541194db9dac70af45a28c067d289c8d}{Tang}{T\bibinitperiod}{Jian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=be51ffe8f55f70ee4360e3e6a1a4216e}{Qu}{Q\bibinitperiod}{Meng}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a9b32eefcfd0b44a27bae162e66746ae}{Wang}{W\bibinitperiod}{Mingzhe}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7a56aedb5f6ad175a5340edc7bf6267e}{Zhang}{Z\bibinitperiod}{Ming}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=934a0c3e849405255facd8113ba785b3}{Yan}{Y\bibinitperiod}{Jun}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2ca1c136fc4a8c4c39869eeaf7fade74}{Mei}{M\bibinitperiod}{Qiaozhu}{Q\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{46894c9a61813f6e656d9217e281e7d1}
+      \strng{fullhash}{87054c2dc52ba2fab3bbd4445bd88471}
+      \field{sortinit}{0}
+      \field{labeltitle}{LINE: Large-scale Information Network Embedding}
+      \field{title}{LINE: Large-scale Information Network Embedding}
+      \field{type}{To appear in WWW'15.}
+      \field{year}{2015}
+    \endentry
+    \entry{node}{online}{}
+      \name{labelname}{2}{}{%
+        {{hash=2764aff89945fbd031a9d84a75ddfeb3}{S.\bibnamedelimi Bhagat}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{G.\bibnamedelimi Cormode}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=cb00b576613d25c52ff51128ea3814dc}{Muthukrishnan.}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=2764aff89945fbd031a9d84a75ddfeb3}{S.\bibnamedelimi Bhagat}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{G.\bibnamedelimi Cormode}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=cb00b576613d25c52ff51128ea3814dc}{Muthukrishnan.}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{8aeaae537e247150d75060ddcf505016}
+      \strng{fullhash}{8aeaae537e247150d75060ddcf505016}
+      \field{sortinit}{0}
+      \field{labeltitle}{Node classification in social networks.}
+      \field{title}{Node classification in social networks.}
+      \field{type}{In Social Network Data Analytics, pages 115–148.}
+      \field{year}{2011}
+    \endentry
+    \entry{deep}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=2f5fbdc5c3cf91f62a64663cd72397b3}{Deng}{D\bibinitperiod}{Li}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=93509a9a7ccede33feb1e702b5a8bb9f}{Yu}{Y\bibinitperiod}{Dong}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=2f5fbdc5c3cf91f62a64663cd72397b3}{Deng}{D\bibinitperiod}{Li}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=93509a9a7ccede33feb1e702b5a8bb9f}{Yu}{Y\bibinitperiod}{Dong}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Now Publishers Incorporated}%
+      }
+      \strng{namehash}{a68740927aac82a2c4c1e855b5fc9c0b}
+      \strng{fullhash}{a68740927aac82a2c4c1e855b5fc9c0b}
+      \field{sortinit}{0}
+      \field{labeltitle}{Deep Learning}
+      \field{title}{Deep Learning}
+      \field{year}{2014}
+    \endentry
+    \entry{faceR}{online}{}
+      \name{labelname}{2}{}{%
+        {{hash=c0a204ccfb213e07a4aca5ff3be0d6ef}{Brunelli}{B\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=97f94c1c4db087cc849c6aa19f375bc2}{Poggio.}{P\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=c0a204ccfb213e07a4aca5ff3be0d6ef}{Brunelli}{B\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=97f94c1c4db087cc849c6aa19f375bc2}{Poggio.}{P\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{8242103a35d800e07f4bf96ea3de2bbb}
+      \strng{fullhash}{8242103a35d800e07f4bf96ea3de2bbb}
+      \field{sortinit}{0}
+      \field{labeltitle}{Face recognition: Features versus templates.}
+      \field{title}{Face recognition: Features versus templates.}
+      \field{type}{IEEE Transactions on Pattern Analysis and Machine Intelligence}
+      \field{year}{1993}
+    \endentry
+    \entry{ionic}{online}{}
+      \field{sortinit}{0}
+      \field{labeltitle}{Ionic framework 文档}
+      \field{title}{Ionic framework 文档}
+      \verb{url}
+      \verb http://ionicframework.com/docs/
+      \endverb
+    \endentry
+    \entry{ML1}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=67e01fe24a1668a3cae524706c70ebd9}{Lin.}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=67e01fe24a1668a3cae524706c70ebd9}{Lin.}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{67e01fe24a1668a3cae524706c70ebd9}
+      \strng{fullhash}{67e01fe24a1668a3cae524706c70ebd9}
+      \field{sortinit}{0}
+      \field{labeltitle}{An Information-Theoretic Definition of Similarity.}
+      \field{title}{An Information-Theoretic Definition of Similarity.}
+      \field{type}{Proc. Machine Learning ’98, pp. 296–304}
+      \field{year}{1998}
+    \endentry
+    \entry{ML2}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=545cc87091f952cad8808213622b3fe8}{Bishop}{B\bibinitperiod}{C.\bibnamedelimi M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=545cc87091f952cad8808213622b3fe8}{Bishop}{B\bibinitperiod}{C.\bibnamedelimi M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{545cc87091f952cad8808213622b3fe8}
+      \strng{fullhash}{545cc87091f952cad8808213622b3fe8}
+      \field{sortinit}{0}
+      \field{labeltitle}{Neural Networks for Pattern Recognition.}
+      \field{title}{Neural Networks for Pattern Recognition.}
+      \field{year}{1995}
+    \endentry
+    \entry{ML3}{online}{}
+      \name{labelname}{2}{}{%
+        {{hash=a2c3ff7510e235b46f58c7b786aeb711}{Kearns}{K\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=1bcf26e04ab088bef37ab61f95155678}{Vazirani}{V\bibinitperiod}{U.}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a2c3ff7510e235b46f58c7b786aeb711}{Kearns}{K\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=1bcf26e04ab088bef37ab61f95155678}{Vazirani}{V\bibinitperiod}{U.}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a6c9046e6a7e70a52448d1435b2887f8}
+      \strng{fullhash}{a6c9046e6a7e70a52448d1435b2887f8}
+      \field{sortinit}{0}
+      \field{labeltitle}{Computational Learning Theory.}
+      \field{title}{Computational Learning Theory.}
+      \field{year}{1994}
+    \endentry
+    \entry{face}{online}{}
+      \field{sortinit}{0}
+      \field{labeltitle}{Face++API文档}
+      \field{title}{Face++API文档}
+      \verb{url}
+      \verb http://www.faceplusplus.com.cn/api-overview/
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
 \endinput
 

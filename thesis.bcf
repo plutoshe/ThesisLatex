@@ -1941,34 +1941,21 @@
     <bcf:datasource type="file" datatype="bibtex">thesis.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1">deepwalk</bcf:citekey>
+    <bcf:citekey order="2">node1</bcf:citekey>
+    <bcf:citekey order="3">node</bcf:citekey>
+    <bcf:citekey order="4">deep</bcf:citekey>
+    <bcf:citekey order="5">faceR</bcf:citekey>
+    <bcf:citekey order="6">ionic</bcf:citekey>
+    <bcf:citekey order="7">ML1</bcf:citekey>
+    <bcf:citekey order="8">ML2</bcf:citekey>
+    <bcf:citekey order="9">ML3</bcf:citekey>
+    <bcf:citekey order="10">face</bcf:citekey>
   </bcf:section>
-  <bcf:sortlist section="0" type="entry" label="ecnty">
+  <bcf:sortlist section="0" type="entry" label="none">
   <bcf:sorting>
     <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3">
-      <bcf:sortitem order="1">userf</bcf:sortitem>
-      <bcf:sortitem order="2">en</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="6">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>

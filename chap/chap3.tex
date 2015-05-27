@@ -44,7 +44,7 @@ G^{\*} = \mathop{\argmax_{G \in T}}{\lambda * r+(1-\lambda)* F(P,G)}
 
 识别用户感兴趣的用户问题的目标是确定用户新提交的照片对应在数据库中的人脸的标签(即测试用例)。在以往用户点击的感兴趣的图片中,我们收集了一组过去的用户图片以及配对感兴趣的图片(即训练用例), 用D 表示这个集合。每个用例$d \in D$能被八个变量描述，即用户的左右眼角的相对坐标，和感兴趣的图片的人脸的左右眼角的相对坐标。
 
-给定D和两张图片，一张图片为用户提供，一张图片为数据库提供,TapLock 系统需要确定密码的这一张数据库提供图片的标签 是用户感兴趣与否的。这里使用一个简化的 k-最近邻分类(k-Nearest Neighbor Classification,kNN)算法来解决这个问题。令 t 表示一个这两张图片的特征，去匹配在集合D中最近的向量。
+给定D和两张图片，一张图片为用户提供，一张图片为数据库提供,TapLock 系统需要确定密码的这一张数据库提供图片的标签 是用户感兴趣与否的。这里使用一个简化的 k-最近邻分类(k-Nearest Neighbor Classification,kNN)\parencite{ML1}\parencite{ML2}\parencite{ML3} 算法来解决这个问题。令 t 表示一个这两张图片的特征，去匹配在集合D中最近的向量。
 \begin{enumerate}
 \item 计算 t 和每个训练用例$d_{i} \in D$的距离，这里简化为笛卡尔距离
 \item 选出距离值离 t 最近的训练用例$d_{1} \in D$。
@@ -72,7 +72,8 @@ G^{\*} = \mathop{\argmax_{G \in T}}{\lambda * r+(1-\lambda)* F(P,G)}
 \subsection{face++ SDK}
 由于Face++并没有提供对应的SDK给node.js，所以本研究需要为face++的http请求的api实现一个SDK给node.js。
 
-Face++的API可详见\url{http://www.faceplusplus.com.cn/api-overview/}
+Face++的API可详见\parencite{face}
+
 % \begin{figure}[h]
 % \begin{minipage}[t]{0.45\linewidth}
 % \centering

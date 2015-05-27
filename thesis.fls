@@ -342,9 +342,6 @@ INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/newtx/t1ntxrx.fd
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/newtx/t1ntxrx.fd
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/txfonts/t1xr.tfm
 OUTPUT thesis.bcf
-INPUT thesis.bbl
-INPUT thesis.bbl
-INPUT thesis.bbl
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -454,9 +451,6 @@ OUTPUT chap/chap3.aux
 INPUT chap/chap3.tex
 INPUT chap/chap3.tex
 INPUT img/chap3/server.png
-INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/newtx/t1ntxtt.fd
-INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/newtx/t1ntxtt.fd
-INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/txfonts/t1xtt.tfm
 INPUT img/chap3/database.png
 OUTPUT chap/chap4.aux
 INPUT chap/chap4.tex
